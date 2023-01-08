@@ -1,0 +1,2 @@
+streamlit run "C:\Users\pidod\Desktop\asdfg-WORKING--main\temp.py"
+
