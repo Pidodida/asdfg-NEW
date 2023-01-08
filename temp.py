@@ -27,7 +27,7 @@ if (selected == 'Home'):
         
     with col2:
         
-        exang = st.number_input('Induced Angina (YES = 1, NO = 0)', min_value=(0), max_value=(1))
+        exang = st.number_input('Induced Angina (YES = 0, NO = 1)', min_value=(0), max_value=(1))
         
     with col2:
         
